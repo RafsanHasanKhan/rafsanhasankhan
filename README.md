@@ -11,6 +11,7 @@ I'm a passionate and dedicated Junior MERN Stack Developer with a keen interest 
 - **React**: Building interactive, high-performance user interfaces.
 - **Node.js**: Implementing efficient, scalable back-end services.
 - **JavaScript/ES6**: Proficient in modern JavaScript techniques and best practices.
+- **Tailwind CSS**: Designing modern, responsive, and utility-first CSS frameworks.
 - **HTML & CSS**: Creating responsive and accessible web designs.
 
 ## Projects
