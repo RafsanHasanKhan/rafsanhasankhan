@@ -63,11 +63,9 @@ I'm always open to new opportunities and collaborations! Feel free to reach out 
 - LinkedIn: [rafsanhasankhan](https://www.linkedin.com/in/rafsanhasankhan/)
 - Portfolio: [rafsanhasankhan](https://www.linkedin.com/in/rafsanhasankhan/)
 
-  ## 📊 GitHub Insights
+## 🚀 Top Languages & 📊 GitHub Insights
 
-### Visualizing My Code Story
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafsanhasankhan&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafsanhasankhan&layout=compact&theme=radical) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafsanhasankhan&show_icons=true&theme=radical)
 
 
 ## 📊 GitHub Insights
