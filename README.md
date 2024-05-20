@@ -47,9 +47,6 @@ A brief description of a notable project, detailing the technologies used, the c
 ### [Project 2 Name](#)
 A brief description of another project, including the key technologies, development process, and the project's impact or outcome.
 
-## 📊 GitHub at a Glance
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafsanhasankhan&show_icons=true&theme=radical)
-
 ## 🤝 Connect with Me
 
 I'm always open to new opportunities and collaborations! Feel free to reach out to me through the following platforms:
@@ -58,17 +55,27 @@ I'm always open to new opportunities and collaborations! Feel free to reach out 
 - LinkedIn: [rafsanhasankhan](https://www.linkedin.com/in/rafsanhasankhan/)
 - Portfolio: [rafsanhasankhan](https://www.linkedin.com/in/rafsanhasankhan/)
 
-## GitHub Stats
+## 📊 GitHub Insights
+
+### Visualizing My Code Story
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafsanhasankhan&show_icons=true&theme=radical)
 
-## Top Languages
+
+## 🚀 Top Languages
+
+### Languages I Speak in Code
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafsanhasankhan&layout=compact&theme=radical)
 
-## Trophies
+
+## 🏆 Trophies
+
+### My GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 ## 🌱 Growing Every Day
 
