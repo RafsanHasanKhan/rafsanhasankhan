@@ -30,6 +30,30 @@ I'm always open to new opportunities and collaborations! Feel free to reach out 
 - LinkedIn: [rafsanhasankhan](https://www.linkedin.com/in/rafsanhasankhan/)
 - Portfolio: [rafsanhasankhan](https://www.linkedin.com/in/rafsanhasankhan/)
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafsanhasankhan&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafsanhasankhan&layout=compact&theme=radical)
+
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafsanhasankhan&theme=radical)
+
+## Activity Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rafsanhasankhan&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Metrics
+
+![Metrics](https://metrics.lecoq.io/rafsanhasankhan?template=classic&base.indepth=true&base.hireable=false&config.timezone=America%2FNew_York)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
