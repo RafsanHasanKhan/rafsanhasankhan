@@ -44,7 +44,7 @@ I'm always open to new opportunities and collaborations! Feel free to reach out 
 
 ## Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafsanhasankhan&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rafsanhasankhan)](https://git.io/streak-stats)
 
 ## Activity Graph
 
