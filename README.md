@@ -42,17 +42,6 @@ I'm always open to new opportunities and collaborations! Feel free to reach out 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RafsanHasanKhan)](https://git.io/streak-stats)
-
-## Activity Graph
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rafsanhasankhan&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## Metrics
-
-![Metrics](https://metrics.lecoq.io/rafsanhasankhan?template=classic&base.indepth=true&base.hireable=false&config.timezone=America%2FNew_York)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
