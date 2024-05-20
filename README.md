@@ -39,17 +39,6 @@ I'm a passionate and dedicated Junior MERN Stack Developer with a keen interest 
 - 🚀 Heroku
 - ☁️ Netlify
 
-## 🌱 Growing Every Day
-
-### Exploring Advanced Techniques
-- 🚀 Diving deeper into advanced React.js techniques
-
-### Improving Code Quality
-- 🛠️ Learning TypeScript for better code quality
-
-### Embracing Next-gen Technologies
-- 🌟 Exploring Next.js for server-side rendering
-
 ## Projects
 
 ### [Project 1 Name](#)
@@ -77,6 +66,17 @@ I'm always open to new opportunities and collaborations! Feel free to reach out 
 ## Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🌱 Growing Every Day
+
+### Exploring Advanced Techniques
+- 🚀 Diving deeper into advanced React.js techniques
+
+### Improving Code Quality
+- 🛠️ Learning TypeScript for better code quality
+
+### Embracing Next-gen Technologies
+- 🌟 Exploring Next.js for server-side rendering
 
 Here are some ideas to get you started:
 
