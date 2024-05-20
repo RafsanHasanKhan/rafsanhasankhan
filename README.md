@@ -39,7 +39,7 @@ I'm a passionate and dedicated Junior MERN Stack Developer with a keen interest 
 - 🚀 Heroku
 - ☁️ Netlify
 
-## Projects
+## 🌟 Featured Projects
 
 ### [Project 1 Name](#)
 A brief description of a notable project, detailing the technologies used, the challenges faced, and the solutions implemented. Highlight any unique features or accomplishments.
@@ -47,7 +47,10 @@ A brief description of a notable project, detailing the technologies used, the c
 ### [Project 2 Name](#)
 A brief description of another project, including the key technologies, development process, and the project's impact or outcome.
 
-## Contact
+## 📊 GitHub at a Glance
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafsanhasankhan&show_icons=true&theme=radical)
+
+## 🤝 Connect with Me
 
 I'm always open to new opportunities and collaborations! Feel free to reach out to me through the following platforms:
 
