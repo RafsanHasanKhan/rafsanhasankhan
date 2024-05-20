@@ -53,7 +53,6 @@ I'm always open to new opportunities and collaborations! Feel free to reach out 
 ## Metrics
 
 ![Metrics](https://metrics.lecoq.io/rafsanhasankhan?template=classic&base.indepth=true&base.hireable=false&config.timezone=America%2FNew_York)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
