@@ -44,7 +44,7 @@ I'm always open to new opportunities and collaborations! Feel free to reach out 
 
 ## Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rafsanhasankhan)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RafsanHasanKhan)](https://git.io/streak-stats)
 
 ## Activity Graph
 
