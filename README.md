@@ -24,8 +24,8 @@ Brief description of another project, the technologies used, and its purpose.
 Feel free to explore my repositories and connect with me for potential collaborations or job opportunities!
 
 - Email: [rafsanhasankhaninfo@gmail.com](mailto:rafsanhasankhaninfo@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rafsanhasankhan/)
-- Portfolio: [Your Portfolio Website](https://www.linkedin.com/in/rafsanhasankhan/)
+- LinkedIn: [rafsanhasankhan](https://www.linkedin.com/in/rafsanhasankhan/)
+- Portfolio: [rafsanhasankhan](https://www.linkedin.com/in/rafsanhasankhan/)
 
 Here are some ideas to get you started:
 
