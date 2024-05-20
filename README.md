@@ -39,6 +39,16 @@ I'm a passionate and dedicated Junior MERN Stack Developer with a keen interest 
 - 🚀 Heroku
 - ☁️ Netlify
 
+## 🌱 Growing Every Day
+
+### Exploring Advanced Techniques
+- 🚀 Diving deeper into advanced React.js techniques
+
+### Improving Code Quality
+- 🛠️ Learning TypeScript for better code quality
+
+### Embracing Next-gen Technologies
+- 🌟 Exploring Next.js for server-side rendering
 
 ## Projects
 
