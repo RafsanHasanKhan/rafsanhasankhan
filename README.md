@@ -47,27 +47,6 @@ I'm a passionate and dedicated Junior MERN Stack Developer with a keen interest 
 - 🚀 Heroku
 - ☁️ Netlify
 
-## 🚀 Technologies & Tools
-
-![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=black&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
-![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?logo=bulma&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
-![Gulp](https://img.shields.io/badge/-Gulp-CF4647?logo=gulp&logoColor=white&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Materialize](https://img.shields.io/badge/-Materialize-EE6E73?logo=materializecss&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=flat)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat)
-![Sketch](https://img.shields.io/badge/-Sketch-F7B500?logo=sketch&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-
-
 ## 🌟 Featured Projects
 
 ### [Project 1 Name](#)
@@ -84,7 +63,10 @@ I'm always open to new opportunities and collaborations! Feel free to reach out 
 - LinkedIn: [rafsanhasankhan](https://www.linkedin.com/in/rafsanhasankhan/)
 - Portfolio: [rafsanhasankhan](https://www.linkedin.com/in/rafsanhasankhan/)
 
-## 🚀 Top Languages & 📊 GitHub Insights
+## 🚀 Technologies & Tools
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat)![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?logo=bulma&logoColor=white&style=flat)![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=black&style=flat)![Gulp](https://img.shields.io/badge/-Gulp-CF4647?logo=gulp&logoColor=white&style=flat)![Materialize](https://img.shields.io/badge/-Materialize-EE6E73?logo=materializecss&logoColor=white&style=flat)![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)![Sketch](https://img.shields.io/badge/-Sketch-F7B500?logo=sketch&logoColor=white&style=flat)![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=flat)![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+
+## 📊 GitHub Insights  & 🚀 Top Languages
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafsanhasankhan&show_icons=true&theme=radical)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafsanhasankhan&layout=compact&theme=radical) 
 
