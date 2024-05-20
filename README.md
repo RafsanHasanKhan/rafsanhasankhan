@@ -1,18 +1,26 @@
 # Hi there, I'm RAFSAN HASAN KHAN! 👋
 
-## About Me
+## 🌟 About Me
 
 I'm a passionate and dedicated Junior MERN Stack Developer with a keen interest in building dynamic, user-friendly web applications. With a solid foundation in MongoDB, Express.js, React, and Node.js, I enjoy tackling complex problems and transforming innovative ideas into functional software solutions. My journey in web development is driven by continuous learning and the desire to make a meaningful impact through technology.
 
-## Skills
+## 💼 Skills
 
+### Technical Skills
 - **MongoDB**: Crafting and optimizing databases for high performance and scalability.
 - **Express.js**: Developing robust server-side logic and APIs.
 - **React**: Building interactive, high-performance user interfaces.
 - **Node.js**: Implementing efficient, scalable back-end services.
 - **JavaScript/ES6**: Proficient in modern JavaScript techniques and best practices.
+- **Version Control:** Git, GitHub
 - **Tailwind CSS**: Designing modern, responsive, and utility-first CSS frameworks.
 - **HTML & CSS**: Creating responsive and accessible web designs.
+
+### Soft Skills
+- **Communication:** Effective written and verbal communication
+- **Problem-Solving:** Analytical thinking and creative problem-solving
+- **Teamwork:** Collaborative mindset and ability to work well in a team
+- **Adaptability:** Flexibility and willingness to learn new technologies
 
 ## 🧰 Toolbox
 
