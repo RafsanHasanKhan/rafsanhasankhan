@@ -14,6 +14,32 @@ I'm a passionate and dedicated Junior MERN Stack Developer with a keen interest 
 - **Tailwind CSS**: Designing modern, responsive, and utility-first CSS frameworks.
 - **HTML & CSS**: Creating responsive and accessible web designs.
 
+## 🧰 Toolbox
+
+### Front-end
+- 🌟 React.js
+- 🚀 JavaScript
+- 🎨 HTML
+- 🎉 CSS
+
+### Back-end
+- 🛠️ Node.js
+- 🚀 Express.js
+
+### Database
+- 📦 MongoDB
+- 🏷️ Mongoose
+
+### Version Control
+- 📝 Git
+- 💻 GitHub
+
+### Dev Tools
+- 📮 Postman
+- 🚀 Heroku
+- ☁️ Netlify
+
+
 ## Projects
 
 ### [Project 1 Name](#)
