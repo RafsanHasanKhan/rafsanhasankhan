@@ -25,10 +25,10 @@ I'm a passionate and dedicated Junior MERN Stack Developer with a keen interest 
 ## 🧰 Toolbox
 
 ### Front-end
-- 🌟 React.js
-- 🚀 JavaScript
 - 🎨 HTML
 - 🎉 CSS
+- 🚀 JavaScript
+- 🌟 React.js
 
 ### Back-end
 - 🛠️ Node.js
@@ -43,9 +43,9 @@ I'm a passionate and dedicated Junior MERN Stack Developer with a keen interest 
 - 💻 GitHub
 
 ### Dev Tools
+- ☁️ Netlify
 - 📮 Postman
 - 🚀 Heroku
-- ☁️ Netlify
 
 ## 🌟 Featured Projects
 
@@ -97,5 +97,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Coding Error
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [rafsanhasankhaninfo@gmail.com](mailto:rafsanhasankhaninfo@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can understand and generate text in multiple languages!
