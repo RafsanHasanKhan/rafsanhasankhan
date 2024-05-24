@@ -49,10 +49,10 @@ I'm a passionate and dedicated Junior MERN Stack Developer with a keen interest 
 
 ## 🌟 Featured Projects
 
-### [Project 1 Name](#)
+### [B8A3-fruit-brust](https://github.com/RafsanHasanKhan/B8A3-fruit-brust.git)
 A brief description of a notable project, detailing the technologies used, the challenges faced, and the solutions implemented. Highlight any unique features or accomplishments.
 
-### [Project 2 Name](#)
+### [g3-architects-website](https://github.com/RafsanHasanKhan/g3-architects-website.git)
 A brief description of another project, including the key technologies, development process, and the project's impact or outcome.
 
 ## 🤝 Connect with Me
