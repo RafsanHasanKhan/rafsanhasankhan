@@ -59,7 +59,7 @@ I'm a passionate and dedicated Junior MERN Stack Developer with a keen interest 
 
 ### &#x1F310;[B8A3-fruit-brust](https://hilarious-cascaron-659e2d.netlify.app/) &#128073; [B8A3-fruit-brust](https://github.com/RafsanHasanKhan/B8A3-fruit-brust.git)
 
-### &#x1F310;[B8A3-fruit-brust](https://silly-biscochitos-1efd9e.netlify.app/) &#128073; [B8A3-fruit-brust](https://github.com/RafsanHasanKhan/b8a2-gamer-zone.git)
+### &#x1F310;[B8a2-gamer-zone](https://silly-biscochitos-1efd9e.netlify.app/) &#128073; [B8a2-gamer-zone](https://github.com/RafsanHasanKhan/b8a2-gamer-zone.git)
 
 ## 🤝 Connect with Me
 
