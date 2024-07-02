@@ -1,4 +1,5 @@
 # Hi there, I'm RAFSAN HASAN KHAN! 👋
+<img src="(https://drive.google.com/thumbnail?id=15GqD0sGZGKe6ElgnYjk9M8qzllMQYWwu" alt="Banner Image" width="1280" height="640">
 ![Banner Image](https://drive.google.com/thumbnail?id=15GqD0sGZGKe6ElgnYjk9M8qzllMQYWwu){ width=1280 height=640 }
 
 ## 🌟 About Me
