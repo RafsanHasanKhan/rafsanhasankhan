@@ -49,7 +49,7 @@ I'm a passionate and dedicated Junior MERN Stack Developer with a keen interest 
 - 🚀 Heroku
 
 ## 🌟 Featured Projects
-### &#x1F310;[Live-Link] &#128073; [Code]
+### &#x1F310; Live-Link &#128073; Code
 
 ### &#x1F310;[CareerHub](https://zesty-cajeta-2daf81.netlify.app/) &#128073; [CareerHub](https://github.com/RafsanHasanKhan/CareerHub.git)
 
