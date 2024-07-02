@@ -65,6 +65,22 @@ I'm a passionate and dedicated Junior MERN Stack Developer with a keen interest 
 
 ### &#x1F310;[Course-Registration](https://ornate-strudel-1bfccd.netlify.app/) &#128073; [Course-Registration](https://github.com/RafsanHasanKhan/Course-Registration.git)
 
+### &#x1F310;[Summer-Sale](https://famous-rabanadas-66f29a.netlify.app/)
+
+### &#x1F310;[Youtube](https://sparkly-peony-b3db49.netlify.app/)
+
+### &#x1F310;[Wedding](https://mellow-sherbet-888376.netlify.app/)
+
+### &#x1F310;[Wedding](https://mellow-sherbet-888376.netlify.app/)
+
+### &#x1F310;[Card-1](https://serene-alpaca-04e5d6.netlify.app/)
+
+### &#x1F310;[Card-2](https://bucolic-duckanoo-80465f.netlify.app/)
+
+### &#x1F310;[Card-3](https://superlative-salamander-6385e2.netlify.app/)
+
+### &#x1F310;[Card-4](https://comfy-entremet-21e479.netlify.app)
+
 ## 🤝 Connect with Me
 
 I'm always open to new opportunities and collaborations! Feel free to reach out to me through the following platforms:
