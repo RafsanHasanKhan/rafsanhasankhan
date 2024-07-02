@@ -1,5 +1,5 @@
 # Hi there, I'm RAFSAN HASAN KHAN! 👋
-![Custom Banner](https://i.ibb.co/5Y2cS69/Banner-Rafsan.jpg)
+![Custom Banner](https://drive.google.com/thumbnail?id=15GqD0sGZGKe6ElgnYjk9M8qzllMQYWwu)
 
 ## 🌟 About Me
 
