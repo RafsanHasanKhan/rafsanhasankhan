@@ -50,12 +50,16 @@ I'm a passionate and dedicated Junior MERN Stack Developer with a keen interest 
 
 ## 🌟 Featured Projects
 
-### [CareerHub-website-Live](https://zesty-cajeta-2daf81.netlify.app/)
+### &#x1F310;[CareerHub-website-Live](https://zesty-cajeta-2daf81.netlify.app/)
 A brief description of a notable project, detailing the technologies used, the challenges faced, and the solutions implemented. Highlight any unique features or accomplishments.
 
-### [Foodest-website-Live](https://clever-pie-e08fe7.netlify.app/)
+### &#x1F310;[Foodest-website-Live](https://clever-pie-e08fe7.netlify.app/)
 A brief description of another project, including the key technologies, development process, and the project's impact or outcome.
-### [G3 Architects-website-Live](https://fantastic-gecko-2e0df4.netlify.app/)
+
+### &#x1F310;[G3 Architects-website-Live](https://fantastic-gecko-2e0df4.netlify.app/)
+
+### &#x1F310;[B8A3-fruit-brust-website-Live](https://hilarious-cascaron-659e2d.netlify.app/)
+
 ## 🤝 Connect with Me
 
 I'm always open to new opportunities and collaborations! Feel free to reach out to me through the following platforms:
