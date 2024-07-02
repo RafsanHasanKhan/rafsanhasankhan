@@ -50,13 +50,13 @@ I'm a passionate and dedicated Junior MERN Stack Developer with a keen interest 
 
 ## 🌟 Featured Projects
 
-### &#x1F310;[CareerHub-website-Live](https://zesty-cajeta-2daf81.netlify.app/) U+1F449 [CareerHub-Code](https://github.com/RafsanHasanKhan/CareerHub.git)
+### &#x1F310;[CareerHub-website-Live](https://zesty-cajeta-2daf81.netlify.app/) &#128073; [CareerHub-Code](https://github.com/RafsanHasanKhan/CareerHub.git)
 
-### &#x1F310;[Foodest-website-Live](https://clever-pie-e08fe7.netlify.app/) U+1F449 [foodest-Code](https://github.com/RafsanHasanKhan/foodest.git)
+### &#x1F310;[Foodest-website-Live](https://clever-pie-e08fe7.netlify.app/) &#128073; [foodest-Code](https://github.com/RafsanHasanKhan/foodest.git)
 
-### &#x1F310;[G3 Architects-website-Live](https://fantastic-gecko-2e0df4.netlify.app/) U+1F449 [g3-architects-Code](https://github.com/RafsanHasanKhan/g3-architects-website.git)
+### &#x1F310;[G3 Architects-website-Live](https://fantastic-gecko-2e0df4.netlify.app/) &#128073; [g3-architects-Code](https://github.com/RafsanHasanKhan/g3-architects-website.git)
 
-### &#x1F310;[B8A3-fruit-brust-website-Live](https://hilarious-cascaron-659e2d.netlify.app/) U+1F449 [B8A3-fruit-brust-Code](https://github.com/RafsanHasanKhan/B8A3-fruit-brust.git)
+### &#x1F310;[B8A3-fruit-brust-website-Live](https://hilarious-cascaron-659e2d.netlify.app/) &#128073; [B8A3-fruit-brust-Code](https://github.com/RafsanHasanKhan/B8A3-fruit-brust.git)
 
 ## 🤝 Connect with Me
 
