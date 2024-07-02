@@ -63,6 +63,8 @@ I'm a passionate and dedicated Junior MERN Stack Developer with a keen interest 
 
 ### &#x1F310;[online-flower-shop](https://transcendent-tulumba-87a499.netlify.app/) &#128073; [online-flower-shop](https://github.com/RafsanHasanKhan/online-flower-shop.git)
 
+### &#x1F310;[Course-Registration](https://ornate-strudel-1bfccd.netlify.app/) &#128073; [Course-Registration](https://github.com/RafsanHasanKhan/Course-Registration.git)
+
 ## 🤝 Connect with Me
 
 I'm always open to new opportunities and collaborations! Feel free to reach out to me through the following platforms:
