@@ -48,38 +48,6 @@ I'm a passionate and dedicated Junior MERN Stack Developer with a keen interest 
 - 📮 Postman
 - 🚀 Heroku
 
-## 🌟 Featured Projects
-### &#x1F310; Live-Link &#128073; Code
-
-### &#x1F310;[CareerHub](https://zesty-cajeta-2daf81.netlify.app/) &#128073; [CareerHub](https://github.com/RafsanHasanKhan/CareerHub.git)
-
-### &#x1F310;[Foodest](https://clever-pie-e08fe7.netlify.app/) &#128073; [foodest](https://github.com/RafsanHasanKhan/foodest.git)
-
-### &#x1F310;[G3 Architects](https://fantastic-gecko-2e0df4.netlify.app/) &#128073; [g3-architects](https://github.com/RafsanHasanKhan/g3-architects-website.git)
-
-### &#x1F310;[B8A3-fruit-brust](https://hilarious-cascaron-659e2d.netlify.app/) &#128073; [B8A3-fruit-brust](https://github.com/RafsanHasanKhan/B8A3-fruit-brust.git)
-
-### &#x1F310;[B8a2-gamer-zone](https://silly-biscochitos-1efd9e.netlify.app/) &#128073; [B8a2-gamer-zone](https://github.com/RafsanHasanKhan/b8a2-gamer-zone.git)
-
-### &#x1F310;[online-flower-shop](https://transcendent-tulumba-87a499.netlify.app/) &#128073; [online-flower-shop](https://github.com/RafsanHasanKhan/online-flower-shop.git)
-
-### &#x1F310;[Course-Registration](https://ornate-strudel-1bfccd.netlify.app/) &#128073; [Course-Registration](https://github.com/RafsanHasanKhan/Course-Registration.git)
-
-### &#x1F310;[Summer-Sale](https://famous-rabanadas-66f29a.netlify.app/)
-
-### &#x1F310;[Youtube](https://sparkly-peony-b3db49.netlify.app/)
-
-### &#x1F310;[Wedding](https://mellow-sherbet-888376.netlify.app/)
-
-### &#x1F310;[Wedding](https://mellow-sherbet-888376.netlify.app/)
-
-### &#x1F310;[Card-1](https://serene-alpaca-04e5d6.netlify.app/)
-
-### &#x1F310;[Card-2](https://bucolic-duckanoo-80465f.netlify.app/)
-
-### &#x1F310;[Card-3](https://superlative-salamander-6385e2.netlify.app/)
-
-### &#x1F310;[Card-4](https://comfy-entremet-21e479.netlify.app)
 
 ## 🤝 Connect with Me
 
