@@ -6,9 +6,7 @@
 
 ## 🌟 **About Me**  
 
-I am a **Frontend-Focused MERN Stack Web Developer** specializing in **React.js**, **TailwindCSS**, and modern web design. I create **stunning**, **intuitive**, and **fully responsive user interfaces** that ensure exceptional user experiences.  
-
-While my expertise lies in **frontend development**, I also have foundational backend knowledge with **Node.js, Express.js, MongoDB,** and **JWT**, enabling me to integrate server-side logic and API solutions when needed.  
+I am a Frontend-Focused MERN Stack Web Developer specializing in React.js, TailwindCSS, and modern web design. I create stunning, intuitive, and fully responsive user interfaces that ensure an exceptional user experience. While my core expertise is in frontend development, I also possess foundational backend knowledge with Node.js, Express.js, MongoDB, and JWT, enabling me to handle basic server-side logic and API integrations when needed.
 
 🚀 Let’s build something amazing together!  
 
