@@ -98,8 +98,6 @@ I'm open to new opportunities, collaborations, and innovative projects. Let's co
 ---
 
 ## 📊 **GitHub Insights**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafsanHasanKhan&show_icons=true&theme=radical)
  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafsanHasanKhan&layout=compact&theme=radical)
 
